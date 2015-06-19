@@ -43,3 +43,6 @@ kurtosis(): kurtosis of the frequency domain signal
 bandsEnergy(): Energy of a frequency interval within the 64 bins of the FFT of each window.
 angle(): Angle between to vectors
 
+The process from the raw data to the tidy data can be seen in the run_analysis.R script.
+
+The resulting tidy data gives the mean value of each variable, reporting by subject and activity.
