@@ -10,7 +10,7 @@ You should create one R script called run_analysis.R that does the following:
 
 What is included in this repo:
 
-The final data: TidyData_mean.txt
-The R script for producing this data: run_analysis.R
-Variables, data, transformations: CodeBook.md
-Overview of project and data: README.md
+1. The final data: TidyData_mean.txt
+2. The R script for producing this data: run_analysis.R
+3. Variables, data, transformations: CodeBook.md
+4. Overview of project and data: README.md
